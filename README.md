@@ -5,10 +5,10 @@ This repository demonstrates an end-to-end project focused on Exploratory Data A
 ---
 
 ## Table of Contents
-1.Introduction
-2.Datasets
-3.Key Features
-4.Technologies Used
+1.[Introduction]
+2.[Datasets]
+3.[Key Features]
+4.[Technologies Used]
 
 ---
 
